@@ -1,2 +1,2 @@
 # delta-project
-this is demo how to create repository
+this is demo how to create repository.
